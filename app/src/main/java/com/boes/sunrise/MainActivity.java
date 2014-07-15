@@ -27,7 +27,8 @@ public class MainActivity extends Activity {
         setPanoramaView(container, (AspectRatioImageView) findViewById(R.id.panorama), R.drawable.panorama);
         setImageView(container, (AspectRatioImageView) findViewById(R.id.portrait), R.drawable.portrait, true);
 
-        setImageView(container, (AspectRatioImageView) findViewById(R.id.icon), R.drawable.ic_launcher, false);
+        setImageView(container, (AspectRatioImageView) findViewById(R.id.thumbnail), R.drawable.landscape, false);
+        setImageView(container, (AspectRatioImageView) findViewById(R.id.thumbnail2), R.drawable.landscape, false);
 
         setImageView(container, null, R.drawable.landscape, false);
         setImageView(container, null, R.drawable.panorama, false);

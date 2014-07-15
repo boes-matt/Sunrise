@@ -26,9 +26,14 @@
             android:layout_height="wrap_content" />
 
         <com.boes.sunrise.AspectRatioImageView
-            android:id="@+id/icon"
+            android:id="@+id/thumbnail"
             android:layout_width="wrap_content"
-            android:layout_height="50dp" />
+            android:layout_height="150dp" />
+
+        <com.boes.sunrise.AspectRatioImageView
+            android:id="@+id/thumbnail2"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content" />
 
     </LinearLayout>
 
