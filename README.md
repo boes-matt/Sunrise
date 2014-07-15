@@ -8,7 +8,7 @@ I show how to use it, employing a custom view AspectRatioImageView to extend Ima
 
 The app also demonstrates the use of horizontal scroll views to wrap landscape photos.
 
-See:
+## Code links
 
 [MainActivity](https://github.com/boes-matt/Sunrise/blob/master/app/src/main/java/com/boes/sunrise/MainActivity.java)
 
